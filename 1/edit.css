@@ -1,0 +1,336 @@
+@charset "utf-8";
+
+.promoSidebar {
+	background: #FFF;
+	width: 228px;
+	padding: 0px 0px 10px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border: 1px solid #7EABBE;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.promoSidebar h2 {
+	color: #FC0;
+	text-align: center;
+	font-size: 24px;
+	margin: 1px 1px 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #3A6B79; /* old browsers */
+	background: -moz-linear-gradient(top, #3A6B79 0%, #1B374B 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3A6B79), color-stop(100%, #1B374B)); /* webkit */
+
+
+
+
+
+
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3A6B79', endColorstr='#1B374B', GradientType=0 ); /* ie */
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	
+}
+
+.promoSidebar a {
+	color: #FFF;
+}
+
+.promoSidebar img {
+	width: 180px;
+	height: auto;
+	display: block;
+	margin: 10px auto;
+-ms-interpolation-mode : bicubic; 
+}
+.promoSidebar p {
+	height:auto;
+}
+.bannerFormTop {
+	height:auto;
+}
+.promoSidebar  h6 {
+	font-size: 10px;
+	font-weight: normal;
+	line-height: normal;
+	margin: 10px;
+	text-align: justify;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #406C80;
+}
+
+.promoSidebar h3 {
+	font-size: 14px;
+	margin: 0px 10px;
+	text-align: left;
+	word-spacing: 0px;
+	letter-spacing: 0px;
+	padding: 0px;
+	color: #406C80;
+}
+
+.promoSidebar select {
+	width: 180px;
+	margin: 5px 0px;
+}
+
+.lineDotted, hr{
+	display: block;
+	clear: both;
+	height: 1px;
+	width: 90%;
+	border-bottom: 1px dotted #92B7C9;
+	margin: 10px auto;
+	padding: 0px;
+	background: #FFF;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+}
+
+.promoSidebar p {
+	margin: 5px 10px;
+}
+
+.subText {
+	font-size: 16px;
+	line-height: normal;
+	margin: 0px;
+	padding: 0px 0px 20px;
+}
+.recentDeal {
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	margin:1px 1px 5px;
+	padding:0px;
+	clear: both;
+	float: left;
+	display: block;
+	width: 660px;
+	border-top: 1px none #D2D2D2;
+	border-right: 1px none #D2D2D2;
+	border-bottom: 1px solid #D2D2D2;
+	border-left: 1px none #D2D2D2;
+}.recentDealTitle  {
+	padding: 5px 5px 0px;
+	margin: 0px;
+	width: auto;
+	line-height: normal;
+	color: #406C80;
+	font-weight: normal;
+	border: 1px none #7DABBE;
+}
+.recentDealTitle h2 {
+	margin: 0px;
+	border-bottom: 1px none #7DABBE;
+	line-height: normal;
+	font-size: 24px;
+	color: #3A4348;
+	font-weight: normal;
+	padding-bottom: 4px;
+}
+.recentDealTitle h3 {
+	margin: 0px;
+	border-bottom: 1px none #7DABBE;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #7DABBE;
+	border-right-color: #7DABBE;
+	border-left-color: #7DABBE;
+	color: #93A0A8;
+	text-transform: uppercase;
+	padding: 0px 0px 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: bold;
+}
+
+
+.recentDealImg {
+	width: 160px;
+
+}
+.recentDealImg img {
+	padding: 5px 10px 5px 4px;
+	margin: 0px;
+	height: 100px;
+	width: 150px;
+}
+
+.recentDealInfo {
+	width: 120px;
+	padding: 5px 20px 0px;
+}
+.recentDealSavings {
+	padding: 5px;
+}
+.recentDeal  .action        {
+	padding-top: 32px;
+}
+
+
+.recentDealSavingsTable td {
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	margin:2px;
+	padding:8px 8px 2px;
+}
+
+.subTitle {
+	margin: 0px;
+	padding: 10px 0px 0px;
+	line-height: normal;
+}
+.third {
+	color:#406C80;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:700;
+	width:33%
+}
+.infoNumbersBigRed p {
+	font-size:36px;
+	margin:0;
+	padding:0px 30px 10px;
+	text-align:center;
+	line-height: normal;
+	color: #FF0000;
+}
+
+.ManagerGuiBox {
+	background: #FFF;
+	width: 60%;
+	padding: 0px 0px 10px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border: 1px solid #7EABBE;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.ManagerGuiBox h2 {
+	color: #FFF;
+	text-align: center;
+	font-size: 18px;
+	margin: 1px 1px 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #3A6B79; /* old browsers */
+	background: -moz-linear-gradient(top, #3A6B79 0%, #1B374B 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3A6B79), color-stop(100%, #1B374B)); /* webkit */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3A6B79', endColorstr='#1B374B', GradientType=0 ); /* ie */
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.ManagerGuiBox table {
+	padding-left: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.ManagerGuiBox img {
+	height: 90px;
+	border:none;
+}
+
+.ManagerGuiBox a:hover {
+	color:#5DA6AF;
+	text-decoration: none;
+}
+
+.ManagerSearchResult td {
+	padding: 3px;
+	border-bottom: 1px solid #5DA6AF;
+}
+
+.TransactionOperation 
+{
+	text-align: center;
+	border: none;
+}
+
+.TransactionOperation a:hover {
+	color:#5DA6AF;
+	text-decoration: none;
+}
+
+.TransactionOperation td {
+	padding: 3px;
+}
+
+.VoucherList td {
+	padding: 3px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-bottom: 1px solid #5DA6AF;
+}
+
+.EmailTemplatePreview {
+	padding: 0px;
+	border: 1px solid #5DA6AF;
+	width: 600px;
+}
+
+	.MerchantCenterButton
+	{
+		color: #FFF;
+		text-align: center;
+		font-size: 18px;
+		margin-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background: #3A6B79;
+		-webkit-border-top-left-radius: 5px;
+		-webkit-border-top-right-radius: 5px;
+		-webkit-border-bottom-left-radius: 5px;
+		-webkit-border-bottom-right-radius: 5px;
+		-moz-border-radius-topleft: 5px;
+		-moz-border-radius-topright: 5px;
+		-moz-border-radius-bottomleft: 5px;
+		-moz-border-radius-bottomright: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		float:left;
+		width: 48%;
+	}
+	
+	.MerchantCenterCurrentButton
+	{
+		color: #000;
+		text-align: center;
+		font-size: 18px;
+		margin-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background: #FFC80B;
+		-webkit-border-top-left-radius: 5px;
+		-webkit-border-top-right-radius: 5px;
+		-webkit-border-bottom-left-radius: 5px;
+		-webkit-border-bottom-right-radius: 5px;
+		-moz-border-radius-topleft: 5px;
+		-moz-border-radius-topright: 5px;
+		-moz-border-radius-bottomleft: 5px;
+		-moz-border-radius-bottomright: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		float:left;
+		width: 48%;
+	}
